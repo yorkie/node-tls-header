@@ -1,5 +1,5 @@
 
-var constants = require('./constants');
+var constants = require('tls-constants');
 var versions = constants.TLS.Versions;
 var types = constants.TLS.ContentTypes;
 
