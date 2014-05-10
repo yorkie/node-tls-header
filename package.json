@@ -1,0 +1,27 @@
+{
+  "name": "tls-header",
+  "version": "0.0.0",
+  "description": "Generating TLS Header in pure javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-tls-header.git"
+  },
+  "keywords": [
+    "tls",
+    "header",
+    "js"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-tls-header/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-tls-header",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
