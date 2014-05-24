@@ -1,6 +1,6 @@
 {
   "name": "tls-header",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generating TLS Header in pure javascript.",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "tape": "^2.12.3"
   },
   "dependencies": {
-    "tls-constants": "0.0.0"
+    "tls-constants": "~0.0.0"
   }
 }
